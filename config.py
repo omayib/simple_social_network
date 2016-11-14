@@ -1,0 +1,4 @@
+consumerKey = "9J0eTz4xPGWsbhXHJ5RnhmSAl"
+consumerSecret = "A65FzuAtdXAgN2VEHspRmYLGoja18ptKRzuDF2ndk6YsP9vZDJ"
+accessToken="97325606-J3yjwx1zsUy6J63NH1pJpX96r19UpLJFU0r4BByxT"
+accessTokenSecret="dBxJdZIWgY6unFxpTEruyPbYc38KGI85BsO1mdDrkQ5t3"
